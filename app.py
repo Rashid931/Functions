@@ -3,7 +3,7 @@ def factorial (n):
         return 1
     else:
         return n*factorial (n-1)
-    print (f"The factorial of {n} is {factorial(n)}")
 
-factorial (5)
 
+n = 6
+print (f"The factorial of {n} is {factorial(n)}")
