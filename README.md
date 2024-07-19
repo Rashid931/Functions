@@ -1,2 +1,3 @@
 # Author: Muhammad Rashid 
 # Git No: 1 
+Functions in Python...
